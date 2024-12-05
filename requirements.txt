@@ -1,0 +1,4 @@
+monai-weekly[nibabel]
+matplotlib
+mamba_ssm
+causal_conv1d
