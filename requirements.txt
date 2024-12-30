@@ -1,4 +1,5 @@
-monai-weekly[nibabel]
 matplotlib
-mamba_ssm
+triton==2.2.0 
+mamba_ssm==2.2.2
 causal_conv1d
+huggingface_hub
