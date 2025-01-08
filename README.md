@@ -6,6 +6,7 @@ XMamba: Glioma Segmentation on Post-treatment
 
 Programming Intergration - Artificial Intelligence, supervised by Mr. Nguyễn Đức Dũng, semester 241
 
+Link report: [Link](https://drive.google.com/file/d/1v8tNp8GYznkeRa5ARrX4WCE9yed7fGa7/view?usp=sharing)
 
 ![](image/architecture.png)
 
